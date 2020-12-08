@@ -1,0 +1,9 @@
+{
+    "name": "gringo/magic-deck",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MagicDeck\\": "src/"
+        }
+    }
+}
