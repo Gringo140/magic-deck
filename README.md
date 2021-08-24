@@ -1,55 +1,52 @@
-# Magic Deck
+# Fetch card List
 
 This project is a deck builder for Magic The Gathering card game.
 
-## Project setup
+## Objectif
 
-* Initialiser composer
-```bash
-composer init
+### Retrieve data from web service
+Implements a method to retrieve a Card collection (return an array with cards). 
+In a file `Service/CardService.php` and in a class `CardService` and in the method `findAll`.
+
+* getCards
+* get
+* retieveAll
+* fetchAll
+* findAll
+* findAllByColor
+* findAllByPage
+
+### Syntaxe needed
+
+* Fetch data
+
+```php
+$url = "https://api.magicthegathering.io/v1/cards";
+$jsonString = file_get_contents($url);
 ```
 
+* Convert JSON string in object
 
-* Project structure
-```bash
-Magic-deck/
-|
-├─ config/
-│
-├─ public/
-│   ├─ assets/
-│       ├─npm init images/
-|       ├─ css/
-|       └─ js/
-│   ├─ .htaccess
-│   └─ index.php
-|
-├─ src/
-│   ├─ controller/
-│   ├─ entity/
-│   └─ services/
-|
-├─ templates/
-|
-└─ var/
-    └─ cache/
-```
-In each folder, we have to create an README.md
-to explain the folder responsability
-
-* initalize npm
-```bash
-cd public
-```
-```bash
-npm init
+```php
+$jsonObject = json_decode($jsonString);
 ```
 
-* Install Materialize CSS
-```
-[Materialize](https://materializecss.com/)
+* Store response in cache
+
+```php
+file_put_contents(__DIR__ . "/../var/cache/cards.json", $jsonString);
 ```
 
-## PHPStorm setup
+### More
 
-* Add server configuration
+* Convert objects in string
+
+```php
+$objectSerialized = serialize($jsonObject);
+```
+
+* Convert string in object
+
+```php
+$jsonObject = unserialize($objectSerialized);
+```
