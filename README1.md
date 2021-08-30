@@ -6,7 +6,7 @@ This project is a deck builder for Magic The Gathering card game.
 
 * Initialiser composer
 ```bash
-composer init
+composer init 
 ```
 
 
