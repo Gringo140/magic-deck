@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="50d4ec0f-c177-452c-aa17-911423594c79" name="Default Changelist" comment="add readme">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../qe2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -115,97 +138,67 @@
       <workItem from="1605172426092" duration="552000" />
       <workItem from="1605211954574" duration="566000" />
       <workItem from="1605529192476" duration="112000" />
-      <workItem from="1629813426870" duration="312000" />
+      <workItem from="1629813426870" duration="1707000" />
+      <workItem from="1629815392614" duration="251000" />
+      <workItem from="1629882394593" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="add readme">
+      <created>1629813821751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629813821751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add readme" />
     <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1004" y="312" key="#Composer" timestamp="1600078261601">
+    <state x="618" y="291" key="#Notifications" timestamp="1629814852142">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="1004" y="312" key="#Composer/0.0.1600.860@0.0.1600.860" timestamp="1600078261601" />
-    <state x="761" y="94" key="#PHP" timestamp="1600079032700">
+    <state x="618" y="291" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1629814852142" />
+    <state x="513" y="183" key="FileChooserDialogImpl" timestamp="1629882412647">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="761" y="94" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1600079032700" />
-    <state x="850" y="87" width="750" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600095268437">
+    <state x="513" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1629882412647" />
+    <state width="1407" height="212" key="GridCell.Tab.0.bottom" timestamp="1629815645483">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="850" y="87" width="750" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1600095268437" />
-    <state x="1001" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1601023075683">
+    <state width="1407" height="212" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1629815645483" />
+    <state width="1407" height="212" key="GridCell.Tab.0.center" timestamp="1629815645483">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="1001" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601023075683" />
-    <state x="629" y="204" width="932" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600868267960">
+    <state width="1407" height="212" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1629815645483" />
+    <state width="1407" height="212" key="GridCell.Tab.0.left" timestamp="1629815645482">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="629" y="204" width="932" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1600868267960" />
-    <state x="735" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600420525052">
+    <state width="1407" height="212" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1629815645482" />
+    <state width="1407" height="212" key="GridCell.Tab.0.right" timestamp="1629815645483">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="735" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1600420525052" />
-    <state x="660" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600950046337">
+    <state width="1407" height="212" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1629815645483" />
+    <state x="325" y="161" key="Vcs.Push.Dialog.v2" timestamp="1629814843829">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="660" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1600950046337" />
-    <state x="1011" y="345" key="ComposerInitDialogKey" timestamp="1600165921198">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="1011" y="345" key="ComposerInitDialogKey/0.0.1600.860@0.0.1600.860" timestamp="1600165921198" />
-    <state x="834" y="206" key="FileChooserDialogImpl" timestamp="1603705136374">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="834" y="206" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603705136374" />
-    <state width="901" height="209" key="GridCell.Tab.0.bottom" timestamp="1603113100851">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="901" height="209" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603113100851" />
-    <state width="901" height="209" key="GridCell.Tab.0.center" timestamp="1603113100851">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="901" height="209" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603113100851" />
-    <state width="901" height="209" key="GridCell.Tab.0.left" timestamp="1603113100851">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="901" height="209" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603113100851" />
-    <state width="901" height="209" key="GridCell.Tab.0.right" timestamp="1603113100851">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="901" height="209" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603113100851" />
-    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1600094737532">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1600.860@0.0.1600.860" timestamp="1600094737532" />
-    <state x="664" y="137" key="NewPhpClassDialog" timestamp="1601040386474">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="664" y="137" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1601040386474" />
-    <state x="1049" y="356" key="NewPhpFileDialog" timestamp="1600786992113">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="1049" y="356" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1600786992113" />
-    <state x="209" y="60" key="SettingsEditor" timestamp="1603986004280">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="209" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603986004279" />
-    <state x="1066" y="320" width="316" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1600154603107">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="1066" y="320" width="316" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1600.860@0.0.1600.860" timestamp="1600154603107" />
-    <state x="292" y="211" width="512" height="614" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1600157518235">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="292" y="211" width="512" height="614" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1600157518235" />
-    <state x="729" y="190" key="run.anything.popup" timestamp="1600353405626">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="729" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1600353405626" />
+    <state x="325" y="161" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1629814843829" />
   </component>
 </project>
