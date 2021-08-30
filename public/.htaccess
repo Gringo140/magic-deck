@@ -6,7 +6,9 @@
 #Turn RewriteEngine to On
 RewriteEngine On
 #Deliver static file
-RewriteCond %{REQUEST_FILENAME} -f
-RewriteRule ^ - [L]
-#Trigger index.php and add query string append flag
-RewriteRule ^(.*)$ index.php [QSA,L]
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^public
+RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
